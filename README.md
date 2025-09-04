@@ -5,7 +5,7 @@
 🌱 &nbsp;Estoy en camino de aprender más sobre Inteligencia Artificial, Diseño de Sistemas y Google Cloud.\
 💬 &nbsp;No dudes en comunicarte conmigo por si te interesa mi perfil.\
 ✉️ &nbsp;Puedes enviarme un correo electrónico a anthony.g.rivera.i@gmail.com! Intentaré responder lo antes posible.\
-📄 &nbsp;Echa un vistazo a mi [CV](https://docs.google.com/document/d/1jat6_OAVSbn27g_GbpYMTpNGrmWXo9Ie/edit?usp=sharing&ouid=104643938129495136965&rtpof=true&sd=true) para obtener más detalles sobre mí. ¡Estoy abierto a recibir comentarios y sugerencias!
+📄 &nbsp;Echa un vistazo a mi [CV] para obtener más detalles sobre mí. ¡Estoy abierto a recibir comentarios y sugerencias!
 
 <img alt="Night Coding" src="https://cdn.dribbble.com/users/2571505/screenshots/14197653/media/324034b1707825a543f520a98d30fdf2.gif" align="right" width="400" height="300" />
 
