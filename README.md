@@ -1,62 +1,111 @@
-### 👨🏻‍💻 &nbsp;Acerca de
-
-💡 &nbsp;Me gusta explorar nuevas tecnologías y desarrollar soluciones de software.\
-🎓 &nbsp;Actualmente estoy estudiando Ingenieria de Sistemas en la UTP e Inteligencia Artificial en Samsung Innovation Campus.\
-🌱 &nbsp;Estoy en camino de aprender más sobre Inteligencia Artificial, Diseño de Sistemas y Google Cloud.\
-💬 &nbsp;No dudes en comunicarte conmigo por si te interesa mi perfil.\
-✉️ &nbsp;Puedes enviarme un correo electrónico a anthony.g.rivera.i@gmail.com! Intentaré responder lo antes posible.\
-📄 &nbsp;Echa un vistazo a mi [CV] para obtener más detalles sobre mí. ¡Estoy abierto a recibir comentarios y sugerencias!
-
-<img alt="Night Coding" src="https://cdn.dribbble.com/users/2571505/screenshots/14197653/media/324034b1707825a543f520a98d30fdf2.gif" align="right" width="400" height="300" />
-
-### 🛠 &nbsp;Stack Tecnológico
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)&nbsp;
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)&nbsp;
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)&nbsp;
-### 🗃 &nbsp;Base de Datos
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-![SQLServer](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)&nbsp;
-
-### 🧰 &nbsp;Control de Versiones y Herramientas 
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
-![ApacheNetbeans](https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white)&nbsp;
-![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)&nbsp;
-![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)&nbsp;
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)&nbsp;
-![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)&nbsp;
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)&nbsp;
-![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)&nbsp;
-
-
-### ⚙️ &nbsp;Análisis de GitHub
-
 <p align="center">
-<a href="https://github.com/AnthonyRiveraI">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnthonyRiveraI&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnthonyRiveraI&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+  <img src="assets/banner.svg" width="100%" alt="Pixel-art pirate ship sailing at night - Anthony Rivera, AI Engineer" />
 </p>
 
-
-### 🤝🏻 &nbsp;Contáctame
+<p align="center">
+  <i>Setting sail on the Grand Line of LLMs, building AI agents that make it to production.</i>
+</p>
 
 <p align="center">
-
-<a href="https://www.linkedin.com/in/anthony-rivera-i/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:anthony.g.rivera.i@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-
+  <a href="https://www.linkedin.com/in/anthony-rivera-i/"><img src="https://img.shields.io/badge/LinkedIn-0b1026?style=for-the-badge&logo=linkedin&logoColor=f2c94c" alt="LinkedIn" /></a>
+  <a href="mailto:anthony.g.rivera.i@gmail.com"><img src="https://img.shields.io/badge/Gmail-0b1026?style=for-the-badge&logo=gmail&logoColor=f2c94c" alt="Gmail" /></a>
 </p>
+
+<img src="assets/divider.svg" width="100%" alt="" />
+
+### 🏴‍☠️ &nbsp;Captain's Log
+
+I'm an **AI Engineer** with **2+ years** designing, building and deploying AI agents for companies and clients.
+I've worked across the whole stack, from prompts and retrieval to orchestration, tools and cloud infrastructure, and
+my focus is getting agents out of the demo stage and into real products.
+
+- ⚓ &nbsp;**Building:** voice agents, multi-agent systems, RAG pipelines and MCP servers
+- 🧭 &nbsp;**Based in:** LATAM · Remote · UTC-5
+- 🎓 &nbsp;**Background:** Systems Engineering (UTP) · AI program (Samsung Innovation Campus)
+- 🌊 &nbsp;**Ask me about:** agent architecture, LLM evaluation, RAG, and taking agents from prototype to production
+
+<img src="assets/divider.svg" width="100%" alt="" />
+
+### 🍖 &nbsp;Devil Fruit Powers: what I build
+
+| Power | What it means |
+| :-- | :-- |
+| 🎙️ **Voice Agents** | Real-time conversational agents built on realtime speech APIs |
+| 💬 **Conversational Agents** | Chatbots and assistants with memory, tools and business logic |
+| 📚 **RAG & Embeddings** | Retrieval pipelines covering chunking, embeddings, vector search and grounding over private data |
+| 🕸️ **Agentic Orchestration** | Multi-agent workflows with LangGraph and Google ADK, plus custom Python harnesses |
+| 🔌 **MCP Servers & Tools** | Custom Model Context Protocol servers and tool layers that let agents act on real systems |
+| 🧩 **AI Integration** | Adding LLMs to existing products, APIs and internal systems |
+| ⚙️ **Automation** | Agentic automations and workflows with n8n |
+
+<img src="assets/divider.svg" width="100%" alt="" />
+
+### 🗺️ &nbsp;Log Pose: tech stack
+
+**🧠 LLMs & Providers**<br/>
+![OpenAI](https://img.shields.io/badge/OpenAI-0b1026?style=for-the-badge&logo=openai&logoColor=f2c94c)
+![Claude](https://img.shields.io/badge/Claude-0b1026?style=for-the-badge&logo=claude&logoColor=f2c94c)
+![Gemini](https://img.shields.io/badge/Gemini-0b1026?style=for-the-badge&logo=googlegemini&logoColor=f2c94c)
+![Ollama](https://img.shields.io/badge/Ollama-0b1026?style=for-the-badge&logo=ollama&logoColor=f2c94c)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-0b1026?style=for-the-badge&logo=huggingface&logoColor=f2c94c)
+![OpenRouter](https://img.shields.io/badge/OpenRouter-0b1026?style=for-the-badge&logo=openrouter&logoColor=f2c94c)
+![GLM](https://img.shields.io/badge/GLM-0b1026?style=for-the-badge)
+![MiniMax](https://img.shields.io/badge/MiniMax-0b1026?style=for-the-badge)
+
+**🕸️ Agents & Orchestration**<br/>
+![LangChain](https://img.shields.io/badge/LangChain-0b1026?style=for-the-badge&logo=langchain&logoColor=f2c94c)
+![LangGraph](https://img.shields.io/badge/LangGraph-0b1026?style=for-the-badge&logo=langgraph&logoColor=f2c94c)
+![Google ADK](https://img.shields.io/badge/Google_ADK-0b1026?style=for-the-badge&logo=google&logoColor=f2c94c)
+![MCP](https://img.shields.io/badge/MCP-0b1026?style=for-the-badge&logo=modelcontextprotocol&logoColor=f2c94c)
+![Claude Code](https://img.shields.io/badge/Claude_Code-0b1026?style=for-the-badge&logo=claude&logoColor=f2c94c)
+![n8n](https://img.shields.io/badge/n8n-0b1026?style=for-the-badge&logo=n8n&logoColor=f2c94c)
+
+**📚 RAG & Vector Stores**<br/>
+![pgvector](https://img.shields.io/badge/pgvector-0b1026?style=for-the-badge&logo=postgresql&logoColor=f2c94c)
+![Supabase](https://img.shields.io/badge/Supabase-0b1026?style=for-the-badge&logo=supabase&logoColor=f2c94c)
+![Pinecone](https://img.shields.io/badge/Pinecone-0b1026?style=for-the-badge)
+![Qdrant](https://img.shields.io/badge/Qdrant-0b1026?style=for-the-badge&logo=qdrant&logoColor=f2c94c)
+![Weaviate](https://img.shields.io/badge/Weaviate-0b1026?style=for-the-badge)
+![Chroma](https://img.shields.io/badge/Chroma-0b1026?style=for-the-badge)
+![FAISS](https://img.shields.io/badge/FAISS-0b1026?style=for-the-badge&logo=meta&logoColor=f2c94c)
+
+**☁️ Backend, Cloud & DevOps**<br/>
+![Python](https://img.shields.io/badge/Python-0b1026?style=for-the-badge&logo=python&logoColor=f2c94c)
+![FastAPI](https://img.shields.io/badge/FastAPI-0b1026?style=for-the-badge&logo=fastapi&logoColor=f2c94c)
+![TypeScript](https://img.shields.io/badge/TypeScript-0b1026?style=for-the-badge&logo=typescript&logoColor=f2c94c)
+![Node.js](https://img.shields.io/badge/Node.js-0b1026?style=for-the-badge&logo=nodedotjs&logoColor=f2c94c)
+![Next.js](https://img.shields.io/badge/Next.js-0b1026?style=for-the-badge&logo=nextdotjs&logoColor=f2c94c)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-0b1026?style=for-the-badge&logo=googlecloud&logoColor=f2c94c)
+![AWS](https://img.shields.io/badge/AWS-0b1026?style=for-the-badge)
+![Azure](https://img.shields.io/badge/Azure-0b1026?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-0b1026?style=for-the-badge&logo=docker&logoColor=f2c94c)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-0b1026?style=for-the-badge&logo=kubernetes&logoColor=f2c94c)
+![Linux](https://img.shields.io/badge/Linux-0b1026?style=for-the-badge&logo=linux&logoColor=f2c94c)
+![Git](https://img.shields.io/badge/Git-0b1026?style=for-the-badge&logo=git&logoColor=f2c94c)
+
+<img src="assets/divider.svg" width="100%" alt="" />
+
+### 📜 &nbsp;Voyage Log
+
+**AI Engineer** · 2+ years · building agents for companies and clients
+
+- Built **real-time voice agents** on realtime speech APIs for natural, low-latency conversations
+- Designed **RAG systems** end to end, from ingestion, chunking and embeddings to vector search on pgvector, Pinecone, Qdrant, Weaviate, Chroma and FAISS
+- Built **multi-agent orchestration** with LangGraph, Google ADK and custom Python harnesses, including agents modeled on OpenClaw- and Hermes-style architectures
+- Developed **MCP servers and custom tools** that let agents read from and act on real business systems
+- Integrated LLMs from **OpenAI, Anthropic, Google** and open-source models (Ollama, Hugging Face, OpenRouter, GLM, MiniMax) into existing products
+- Shipped agents to production on **Google Cloud** with FastAPI, Docker and Kubernetes
+
+<img src="assets/divider.svg" width="100%" alt="" />
+
+### 💰 &nbsp;Buried Treasure
+
+Most of my work is in private repositories for clients and companies.
+Public projects are on their way, so keep an eye on this page.
+
+<img src="assets/divider.svg" width="100%" alt="" />
+
+### 🐌 &nbsp;Den Den Mushi: get in touch
+
+Want to talk about agents, LLMs or a project? Reach out on [LinkedIn](https://www.linkedin.com/in/anthony-rivera-i/) or by email at **anthony.g.rivera.i@gmail.com**.
 
