@@ -83,3 +83,6 @@ Most of my production work is in private repositories for clients and companies.
 
 Want to talk about agents, LLMs or a project? Reach out on [LinkedIn](https://www.linkedin.com/in/anthony-rivera-i/) or by email at **anthony.g.rivera.i@gmail.com**.
 
+<br/>
+
+<img src="assets/chopper.svg" width="100%" alt="Pixel Chopper, the ship's doctor: Even if you star this profile, I won't be happy, you jerk! (He will be.)" />

@@ -259,3 +259,41 @@ ICONS["mail"] = (["wwwwwwwwww", "wrwwwwwwrw", "wwrwwwwrww", "wwwrwwrwww", "wwwwr
 button("btn-linkedin", "linkedin", "LINKEDIN")
 button("btn-email", "mail", "EMAIL ME")
 print("buttons ok")
+
+
+FONT.update({
+    "!": ["00100", "00100", "00100", "00100", "00100", "00000", "00100"],
+    "'": ["00100", "00100", "01000", "00000", "00000", "00000", "00000"],
+    ",": ["00000", "00000", "00000", "00000", "01100", "00100", "01000"],
+    "(": ["00010", "00100", "01000", "01000", "01000", "00100", "00010"],
+    ")": ["01000", "00100", "00010", "00010", "00010", "00100", "01000"],
+})
+
+
+def chopper_panel():
+    from pixel_banner import CHOPPER, CHOPPER_PAL
+    w, h = 960, 136
+    s = 6
+    out = [f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {w} {h}" width="{w}" height="{h}" shape-rendering="crispEdges">',
+           "<title>Ship's Doctor</title>", frame(w, h)]
+    cx, cy = 28, h - 14 - len(CHOPPER) * s
+    out.append(f'<g>{sprite(CHOPPER, CHOPPER_PAL, cx, cy, s)}'
+               '<animateTransform attributeName="transform" type="translate" values="0 0;0 -12;0 -4;0 0" '
+               'keyTimes="0;0.06;0.12;0.18" calcMode="discrete" dur="3.6s" repeatCount="indefinite"/></g>')
+    # speech bubble with a pixel tail pointing at Chopper
+    bx, by, bw, bh = 150, 20, 790, 96
+    out.append(f'<rect x="{bx}" y="{by}" width="{bw}" height="{bh}" fill="{CREAM}"/>'
+               f'<rect x="{bx}" y="{by}" width="{bw}" height="4" fill="{LO}"/><rect x="{bx}" y="{by+bh-4}" width="{bw}" height="4" fill="{LO}"/>'
+               f'<rect x="{bx}" y="{by}" width="4" height="{bh}" fill="{LO}"/><rect x="{bx+bw-4}" y="{by}" width="4" height="{bh}" fill="{LO}"/>'
+               # stepped cream tail pointing down-left at Chopper
+               + ''.join(f'<rect x="{bx-5*i}" y="{by+44+4*i}" width="{5*i+4}" height="4" fill="{CREAM}"/>' for i in range(1, 8)))
+    out.append(text_rects("CHOPPER, SHIP'S DOCTOR", bx + 20, by + 14, 2, "#d16a92"))
+    out.append(text_rects("EVEN IF YOU STAR THIS PROFILE,", bx + 20, by + 38, 3, "#1a0f05"))
+    out.append(text_rects("I WON'T BE HAPPY, YOU JERK!", bx + 20, by + 66, 3, "#1a0f05"))
+    out.append(text_rects("(HE WILL BE.)", bx + bw - 20 - 13 * 12 + 2, by + 72, 2, "#8a5a32"))
+    out.append("</svg>")
+    open(f"{OUT}/chopper.svg", "w").write("".join(out))
+
+
+chopper_panel()
+print("chopper ok")

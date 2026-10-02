@@ -118,6 +118,31 @@ SHIP = [
     "...HHHHHHHHHHHHHHHHHHHHHHHHH....",
     "....HHHHHHHHHHHHHHHHHHHHHHH.....",
 ]
+# ship's doctor: a tiny reindeer in a pink top hat (Chopper tribute)
+CHOPPER = [
+    "a..a........a..a",
+    ".aa..pppppp..aa.",
+    "..a..pwppwp..a..",
+    "..aa.ppwwpp.aa..",
+    "....apwppwpa....",
+    "..pppppppppppp..",
+    "...tttttttttt...",
+    "...ttkttttktt...",
+    "...ttttbbtttt...",
+    "....tttttttt....",
+    "...ffffffffff...",
+    "..ffffffffffff..",
+    "..hffffffffffh..",
+    "....mmmmmmmm....",
+    "....mmm..mmm....",
+    "....fff..fff....",
+    "....hhh..hhh....",
+]
+CHOPPER_PAL = {
+    "a": "#a0703c", "p": "#f48fb1", "w": "#ffffff", "t": "#f0c8a0", "k": "#14141c",
+    "b": "#4f8df5", "f": "#8a5a32", "h": "#f4ecd8", "m": "#b0413e",
+}
+
 SHIP_PAL = {
     "m": "#6b3f1f", "k": "#14141c", "y": GOLD, "r": RED, "w": CREAM,
     "s": CREAM, "S": "#cfc4ab", "h": "#8a5a2b", "H": "#5e3a1a",
@@ -233,6 +258,11 @@ def banner():
     parts.append(sprite(ship_body, SHIP_PAL, sxp, syp, s))
     parts.append(f'<g>{sprite(flag_a, SHIP_PAL, sxp + 16*s, syp, s)}<animate attributeName="opacity" values="1;0" dur="1.2s" calcMode="discrete" repeatCount="indefinite"/></g>')
     parts.append(f'<g opacity="0">{sprite(FLAG2_TIP, SHIP_PAL, sxp + 16*s, syp, s)}<animate attributeName="opacity" values="0;1" dur="1.2s" calcMode="discrete" repeatCount="indefinite"/></g>')
+    # Chopper standing on the bow, hopping every few seconds
+    cy = syp + 23 * s - len(CHOPPER) * 3
+    parts.append(f'<g>{sprite(CHOPPER, CHOPPER_PAL, sxp + 24*s - 4, cy, 3)}'
+                 '<animateTransform attributeName="transform" type="translate" values="0 0;0 -9;0 -3;0 0" '
+                 'keyTimes="0;0.06;0.12;0.18" calcMode="discrete" dur="4.8s" repeatCount="indefinite"/></g>')
     parts.append('</g>')
 
     # wave layers: crest pattern repeated, scrolled left forever
